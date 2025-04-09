@@ -1,0 +1,28 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+server/node_modules
+
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build files
+dist/
+build/
+*.class
+*.o
+*.so
+
+# Environment files
+.env
+.env.local
